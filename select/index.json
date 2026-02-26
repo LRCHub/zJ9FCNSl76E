@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "光暈(halo)",
+  "base_artist": "君島大空",
+  "createdAt": "2026-02-26T02:33:41.615948Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光暈(halo)",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_光暈(halo)_君島大空.txt"
+    }
+  ]
+}
